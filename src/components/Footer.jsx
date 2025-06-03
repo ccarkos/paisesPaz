@@ -1,7 +1,7 @@
 function Footer() {
     return (
       <footer className="footer">
-        <p>© 2025 Explore Países. Feito com ♥ por [Seu Nome].</p>
+        <p>© 2025 Explore Países. Feito por Carlos.</p>
       </footer>
     );
   }
